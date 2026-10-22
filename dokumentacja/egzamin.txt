@@ -1,0 +1,8 @@
+System operacyjny: Windows 11
+
+Aplikacja konsolowa:
+	- Środowisko: Idle
+	- Język: Python
+Aplikacja webowa:
+	- Środowisko: Visual Studio Code
+	- Język: JavaScript - React
